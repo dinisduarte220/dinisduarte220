@@ -1,13 +1,14 @@
 ## Hi there, I'm Dinis! 👋
 
 ### ⚡About Me
+- 📖 2<sup>nd</sup> year Informatics Engineering student at [Universidade Lusófona](https://www.ulusofona.pt/) (Lisbon)
 - 🧑‍💻 Web Developer
 - 🌱 Currently learning Android Development with JAVA
 - 💻 Check my repositories to see what I've been working on recently
 
 ---
 
-### Completed Projects
+### 🗄 Completed Projects
 - 🚍 [Web application using the Carris Metropolitana API](https://carris-metropolitana-api-1.onrender.com/)
 
 ---
@@ -26,6 +27,16 @@
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 🔍 Where to find me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinis_220)
+
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dinis_220)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinisduarte)
 
 
 <!--
