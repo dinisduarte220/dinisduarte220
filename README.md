@@ -2,7 +2,7 @@
 
 ### ⚡About Me
 - 🧑‍💻 Web Developer
-- 🌱 Currently learning JAVA and creation of Android Applications
+- 🌱 Currently learning Android Development with JAVA
 - 💻 Check my repositories to see what I've been working on recently
 - 🚍 Launched a Web App to track and find public transports data on the Lisbon Metropolitan Area
 
