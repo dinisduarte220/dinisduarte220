@@ -3,7 +3,7 @@
 ### ⚡About Me
 - 📖 2<sup>nd</sup> year Informatics Engineering student at [Universidade Lusófona](https://www.ulusofona.pt/) (Lisbon)
 - 🧑‍💻 Web Developer
-- 🌱 Currently learning Android Development with JAVA
+- 🌱 Currently learning Android Development with JAVA and JavaFX
 - 💻 Check my repositories to see what I've been working on recently
 
 ---
