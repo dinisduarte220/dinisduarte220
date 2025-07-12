@@ -39,6 +39,7 @@
 
 ### ⚙️ On Going Projects
 - 🌍 [Trip Planner - Public Transports](https://github.com/dinisduarte220/trip_planner) ![Progress](https://img.shields.io/badge/30%25-yellow)
+- 📝 [PlanBoard](https://github.com/dinisduarte220/PlanBoard) ![Progress](https://img.shields.io/badge/5%25-red)
 
 ### 💭 Projects on Paper
 - 🚍 Android APP for the Carris Metropolitana API
