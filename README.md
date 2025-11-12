@@ -2,7 +2,7 @@
 
 ### ⚡About Me
 - 💆‍♂️ A simple guy from Portugal who loves coding and aviation
-- 📖 2<sup>nd</sup> year Informatics Engineering student at [Universidade Lusófona](https://www.ulusofona.pt/) (Lisbon)
+- 📖 3<sup>rd</sup> year Informatics Engineering student at [Universidade Lusófona](https://www.ulusofona.pt/) (Lisbon)
 - 🧑‍💻 Web Developer
 - 🌱 Currently learning JavaFX (GUI) and Android Development with Java
 - 💻 Check out my repositories to see what I've been working on recently
