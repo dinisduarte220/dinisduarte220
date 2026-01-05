@@ -32,6 +32,10 @@
 
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
+**GTA5 Scripting (FiveM):**
+
+![LUA](https://img.shields.io/badge/LUA-%2300979D.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 ##
 
 ### 🗄 Completed Projects
