@@ -36,6 +36,8 @@
 | **[Carris Metro API](https://carris-metropolitana-api-1.onrender.com/)** | Real-time bus information system. | ![Completed](https://img.shields.io/badge/100%25-Completed-success?style=flat-square) |
 | **[Trip Planner](https://github.com/dinisduarte220/trip_planner)** | Public transport routing helper. | ![Progress](https://img.shields.io/badge/30%25-In_Development-yellow?style=flat-square) |
 | **[PlanBoard](https://github.com/dinisduarte220/PlanBoard)** | Organization tool. | ![Progress](https://img.shields.io/badge/15%25-Started-red?style=flat-square) |
+| **FoodQueue** | Virtual queue and orders for a restaurant. | ![Plan](https://img.shields.io/badge/0%25-Planned-lightgrey?style=flat-square) |
+| **Final University Project** | Events and guestlists platform. | ![Plan](https://img.shields.io/badge/0%25-Planned-lightgrey?style=flat-square) |
 | **Carris App** | Native Android application for Carris. | ![Plan](https://img.shields.io/badge/0%25-Planned-lightgrey?style=flat-square) |
 
 ---
